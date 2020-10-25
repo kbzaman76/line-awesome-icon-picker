@@ -1,0 +1,28 @@
+/* icon-section css start */
+body {
+  background-color: #353C44;
+}
+.icon-section {
+  padding: 120px 0;
+}
+.holder {
+  padding: 50px;
+  background-color: #2B2D34;
+  border-style: solid;
+  border-width: 3px 3px 3px 3px;
+  border-color: #31343C;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: -3px -3px 6px 0px rgba(153, 152, 161, 0.44);
+}
+.holder .input-group .form-control {
+  height: 60px;
+}
+.holder .input-group .input-group-append {
+  background-color: #34383F;
+  width: 85px;
+}
+.holder .input-group .input-group-append > button > i {
+  font-size: 32px;
+}
+/* #34383F */
+/* icon-section css end */
